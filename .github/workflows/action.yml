@@ -1,78 +1,13 @@
-name: Metrics
-on:
-  # 🌏 Think about the planet! No need to update stats too frequently
-  schedule: [{cron: "0 16 * * *"}]
-  # 💡 The following line lets you run workflow manually from the action tab!
-  workflow_dispatch:
-jobs:
-  metrics:
-    runs-on: ubuntu-latest
-    steps:
-
-      - name: 🦑 Medias
-        if: ${{ success() || failure() }}
-        uses: Venkatakrishnan-Ramesh/metrics@latest
-        with:
-          filename: medias.svg
-          token: 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
-          base: ""
-          config_order: anilist, music
-          output_action: gist
-          committer_gist: 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
-          plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_music: yes
-          plugin_music_playlist: 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
-          plugin_music_limit: 9
-
-      - name: 🦑 Achievements
-        if: ${{ success() || failure() }}
-        uses: Venkatakrishnan-Ramesh/metrics@latest
-        with:
-          filename: achievements.svg
-          token: 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
-          base: ""
-          output_action: gist
-          committer_gist: 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
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_fortune: yes
-
-      - name: 🦑 Sponsors
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: sponsors.svg
-          token: ${{ secrets.TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: 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
-          plugin_sponsors: yes
-          plugin_sponsors_past: yes
-
-      - name: 🦑 General
-        if: ${{ success() || failure() }}
-        uses: Venkatakrishnan-Ramesh/metrics@latest
-        with:
-          filename: general.svg
-          token: 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
-          base: header
-          base_indepth: yes
-          config_order: base.header, isocalendar, languages, notable, discussions, topics
-          output_action: gist
-          committer_gist: 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
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, python, ejs
-          plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 2
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-          plugin_notable: yes
-          plugin_discussions: yes
+name: 'Hello World'
+description: 'Greet someone and record the time'
+inputs:
+  who-to-greet:  # id of input
+    description: 'Who to greet'
+    required: true
+    default: 'World'
+outputs:
+  time: # id of output
+    description: 'The time we greeted you'
+runs:
+  using: 'node16'
+  main: 'index.js'
