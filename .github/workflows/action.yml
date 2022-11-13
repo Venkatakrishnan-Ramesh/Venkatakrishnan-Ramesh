@@ -11,7 +11,7 @@ jobs:
 
       - name: 🦑 Medias
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: Venkatakrishnan-Ramesh/metrics@latest
         with:
           filename: medias.svg
           token: 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
@@ -30,7 +30,7 @@ jobs:
 
       - name: 🦑 Achievements
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: Venkatakrishnan-Ramesh/metrics@latest
         with:
           filename: achievements.svg
           token: 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
@@ -55,7 +55,7 @@ jobs:
 
       - name: 🦑 General
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: Venkatakrishnan-Ramesh/metrics@latest
         with:
           filename: general.svg
           token: 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
