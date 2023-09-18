@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ ML**
 
-- 👨‍💻 All of my projects are available at [https://venkatakrishnan-ramesh.netlify.app](https://venkatakrishnan-ramesh.netlify.app)
+- 👨‍💻 All of my projects are available at [https://venkatakrishnanramesh.netlify.app](https://venkatakrishnanramesh.netlify.app)
 
 - 📫 How to reach me **venkatkrishnan2003@gmail.com**
 
