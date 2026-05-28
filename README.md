@@ -94,10 +94,8 @@ I like projects that sit at the intersection of engineering execution and resear
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Venkatakrishnan-Ramesh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## Profile Links
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Venkatakrishnan-Ramesh&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+- GitHub: [Venkatakrishnan-Ramesh](https://github.com/Venkatakrishnan-Ramesh)
+- LinkedIn: [venkatakrishnan-ramesh-997409214](https://www.linkedin.com/in/venkatakrishnan-ramesh-997409214)
+- Portfolio: [venkatakrishnanramesh.netlify.app](https://venkatakrishnanramesh.netlify.app)
