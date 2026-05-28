@@ -10,6 +10,10 @@
   <a href="https://venkatakrishnanramesh.netlify.app">Portfolio</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=venkatakrishnan-ramesh&label=Profile%20views&color=0e75b6&style=flat" alt="venkatakrishnan-ramesh profile views" />
+</p>
+
 ---
 
 ## About
