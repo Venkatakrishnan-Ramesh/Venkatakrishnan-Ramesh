@@ -18,6 +18,9 @@
       <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.22 0 0 0 0 0.62 0 0 0 0 1 0 0 0 .38 0"/>
       <feBlend in="SourceGraphic"/>
     </filter>
+    <clipPath id="avatarClip">
+      <rect x="112" y="104" width="352" height="352" rx="30"/>
+    </clipPath>
     <style>
       .label{font:700 18px ui-monospace,SFMono-Regular,Consolas,Liberation Mono,monospace;letter-spacing:.16em;text-transform:uppercase}
       .title{font:800 70px Georgia,serif;letter-spacing:-1.8px}
@@ -37,7 +40,7 @@
   <rect x="54" y="48" width="1172" height="664" rx="38" fill="#0d1117" opacity=".78" stroke="#30363d" stroke-width="2"/>
   <rect x="82" y="76" width="412" height="608" rx="30" fill="#010409" stroke="#30363d"/>
   <rect x="112" y="104" width="352" height="352" rx="30" fill="#0d1117" stroke="#238636" stroke-width="2"/>
-  <image href="assets/binary-avatar.svg" x="112" y="104" width="352" height="352" preserveAspectRatio="xMidYMid meet"/>
+  <image href="assets/avatar.jpg" x="112" y="104" width="352" height="352" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
   <rect x="112" y="104" width="352" height="352" rx="30" fill="none" stroke="url(#accent)" stroke-width="4" filter="url(#glow)"/>
 
   <text x="112" y="507" fill="#8b949e" class="label">Current signal</text>
