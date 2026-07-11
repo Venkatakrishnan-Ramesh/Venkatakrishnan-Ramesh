@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td width="34%" align="center" valign="top">
-      <img src="./assets/binary-avatar.svg" width="250" alt="Binary avatar of Venkatakrishnan Ramesh" />
+      <img src="./assets/binary-avatar.svg" width="250" alt="Monochrome ASCII avatar of Venkatakrishnan Ramesh" />
       <h2>Venkatakrishnan Ramesh</h2>
       <p><strong>IT Engineer · QA Engineer · AI Builder</strong></p>
       <p>Bengaluru, India</p>
