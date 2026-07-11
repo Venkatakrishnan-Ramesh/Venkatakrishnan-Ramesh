@@ -38,7 +38,7 @@
   <rect x="54" y="48" width="1172" height="664" rx="38" fill="#ffffff" stroke="#d0d7de" stroke-width="2" filter="url(#shadow)"/>
   <rect x="82" y="76" width="412" height="608" rx="30" fill="#f6f8fa" stroke="#d0d7de"/>
   <rect x="112" y="104" width="352" height="352" rx="30" fill="#0d1117" stroke="#1a7f37" stroke-width="2"/>
-  <image href="assets/avatar.jpg" x="112" y="104" width="352" height="352" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
+  <image href="assets/alphabet-avatar.svg" x="112" y="104" width="352" height="352" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
   <rect x="112" y="104" width="352" height="352" rx="30" fill="none" stroke="url(#accent)" stroke-width="4"/>
 
   <text x="112" y="507" fill="#57606a" class="label">Current signal</text>
