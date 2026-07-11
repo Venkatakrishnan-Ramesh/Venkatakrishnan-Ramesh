@@ -1,101 +1,123 @@
-<h1 align="center">Venkatakrishnan Ramesh</h1>
-
 <p align="center">
-  <strong>AI-focused Software Engineer | IT Automation | Cloud Security Research | ML Systems</strong>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=210&section=header&text=Venkatakrishnan%20Ramesh&fontSize=42&fontColor=F0F6FC&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20Automation%20%C2%B7%20Cloud%20Security%20%C2%B7%20Quality%20Engineering&descAlignY=58&descSize=16" alt="Venkatakrishnan Ramesh header" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Venkatakrishnan-Ramesh">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/venkatakrishnan-ramesh-997409214">LinkedIn</a> ·
-  <a href="https://venkatakrishnanramesh.netlify.app">Portfolio</a>
+  <a href="https://github.com/Venkatakrishnan-Ramesh">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/venkatakrishnan-ramesh-997409214">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://venkatakrishnanramesh.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Venkatakrishnan-Ramesh&style=for-the-badge&color=238636&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+<table>
+  <tr>
+    <td width="34%" align="center" valign="top">
+      <img src="https://avatars.githubusercontent.com/u/74406604?v=4" width="220" alt="Venkatakrishnan Ramesh" />
+      <h2>Venkatakrishnan Ramesh</h2>
+      <p><strong>IT Engineer · QA Engineer · AI Builder</strong></p>
+      <p>Bengaluru, India</p>
+      <p><em>Building systems that are reliable, measurable, and hard to break.</em></p>
+    </td>
+    <td width="66%" valign="top">
+
+```javascript
+const venkat = {
+  role: "IT Associate Engineer — QA",
+  company: "Palo Alto Networks",
+  focus: [
+    "Enterprise automation",
+    "CI/CD quality engineering",
+    "Cloud security research",
+    "LLM evaluation and agentic tooling"
+  ],
+  stack: {
+    languages: ["Python", "C++", "Java", "SQL", "MATLAB"],
+    ai_ml: ["PyTorch", "TensorFlow", "scikit-learn", "OpenCV"],
+    platform: ["GitHub Actions", "Harness", "SonarQube", "Docker", "Linux"]
+  },
+  principle: "Code. Test. Measure. Improve."
+};
+```
+
+> Turning research ideas and messy operational workflows into production-grade systems.
+
+  </td>
+  </tr>
+</table>
+
+## What I build
+
+- **Quality engineering systems** — CI/CD gates, test automation, release validation, compliance dashboards, and failure analysis.
+- **AI and ML products** — NLP, computer vision, representation learning, model evaluation, and workflow automation.
+- **Cloud security research** — IAM blast-radius analysis, identity-to-data attack paths, policy validation, and remediation logic.
+- **Developer tooling** — bug triage, automated repair loops, multi-agent review, and engineering productivity tools.
+
+## Selected work
+
+<p align="center">
+  <a href="https://github.com/Venkatakrishnan-Ramesh/OperationalML">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Venkatakrishnan-Ramesh&repo=OperationalML&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=238636&text_color=C9D1D9" alt="OperationalML" />
+  </a>
+  <a href="https://github.com/Venkatakrishnan-Ramesh/bug2Patch">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Venkatakrishnan-Ramesh&repo=bug2Patch&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=238636&text_color=C9D1D9" alt="bug2Patch" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=venkatakrishnan-ramesh&label=Profile%20views&color=0e75b6&style=flat" alt="venkatakrishnan-ramesh profile views" />
+  <a href="https://github.com/Venkatakrishnan-Ramesh/GymAI">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Venkatakrishnan-Ramesh&repo=GymAI&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=238636&text_color=C9D1D9" alt="GymAI" />
+  </a>
+  <a href="https://github.com/Venkatakrishnan-Ramesh/EHRKIT">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Venkatakrishnan-Ramesh&repo=EHRKIT&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=238636&text_color=C9D1D9" alt="EHRKIT" />
+  </a>
 </p>
 
----
+## Engineering stack
 
-## About
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,matlab,tensorflow,pytorch,opencv,sklearn,flask,mysql,mongodb,gcp,docker,linux,git,githubactions&perline=8" alt="Technology stack" />
+</p>
 
-I build automation, ML, and security tooling that turns messy operational workflows into repeatable systems.
+## GitHub telemetry
 
-Currently focused on:
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Venkatakrishnan-Ramesh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=238636&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+  <img height="175" src="https://streak-stats.demolab.com?user=Venkatakrishnan-Ramesh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=238636&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub streak" />
+</p>
 
-- Enterprise IT automation, QA engineering, CI/CD quality gates, and platform reliability.
-- Cloud security research, especially identity-to-data attack-path discovery and IAM risk modeling.
-- LLM evaluation, behavioral testing, and failure-mode analysis through black-box harnesses.
-- Applied ML systems across NLP, computer vision, model validation, and workflow automation.
+<p align="center">
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venkatakrishnan-Ramesh&theme=github_dark" alt="GitHub contribution summary" />
+</p>
 
-I like projects that sit at the intersection of engineering execution and research depth: systems that are useful, measurable, and explainable.
+## Research and recognition
 
----
+- Presented research on **DNA-binding protein classification** at WCAIAA 2022.
+- Ranked **2nd globally** in IBM zDatathon for Social Good 2022.
+- Named a **Top 10 Big Learner** at IBM Z Day Conference 2022.
+- Received a full scholarship to the **Robotic Vision Summer School** and ranked 5th in the TurtleBot challenge.
+- Founded the **AMRITA CHENNAI FOSS CLUB**, growing an open-source community of 200+ members.
 
-## Current Research and Build Areas
+## Current direction
 
-| Area | What I am working on |
-|---|---|
-| Cloud Security | Identity-to-data attack-path modeling, capability composition, IAM blast-radius analysis, and remediation heuristics. |
-| LLM Evaluation | Black-box behavioral telemetry for model response quality, pressure handling, uncertainty awareness, and boundary integrity. |
-| Developer Tooling | Automated bug triage, test-driven repair loops, multi-agent code review, and CI quality reporting. |
-| Enterprise Automation | Refresh workflows, validation pipelines, compliance dashboards, and deterministic operational runbooks. |
-| Applied ML | NLP, computer vision, representation learning, and low-code ML workflow automation. |
+```text
+$ cat current_focus.txt
+> reliable release and deployment automation
+> cloud IAM attack-path discovery
+> LLM behavioral evaluation
+> agentic developer tooling
+> applied ML systems that survive production
+```
 
----
+<p align="center">
+  <strong>Build useful things. Prove they work. Keep improving them.</strong>
+</p>
 
-## Selected Projects
-
-| Project | Focus |
-|---|---|
-| OperationalML | Low-code ML automation platform designed to make model-building workflows faster and more accessible. |
-| Whatify | NLP-based real-time content moderation system aimed at reducing antisocial behavior online. |
-| GymAI | Computer-vision posture feedback system using Python and OpenCV. |
-| Identity-to-Data Attack Path Discovery Engine | Graph-based cloud security research for modeling how compromised identities can reach sensitive data. |
-| Bug2Patch | Product direction for automated bug analysis, patch recommendation, and multi-agent code review. |
-| DNA-binding Protein Classification | ML research work on biological sequence classification. |
-
----
-
-## Technical Stack
-
-**Languages:** Python, C++, Java, SQL, MATLAB  
-**AI/ML:** PyTorch, TensorFlow, NumPy, pandas, scikit-learn, OpenCV, NLP, computer vision  
-**Cloud and DevOps:** GCP, Cloud Spanner, GitHub Actions, Harness, SonarQube, Docker, Linux  
-**Backend and Data:** Flask, SQLAlchemy, MySQL, MongoDB  
-**Security:** IAM analysis, attack-path modeling, CI security gates, policy validation, controlled adversary-emulation labs
-
----
-
-## Background
-
-- B.Tech in Computer Science and Engineering with a focus on Artificial Intelligence.
-- Founder and President of AMRITA CHENNAI FOSS CLUB, a 200+ member open-source community.
-- Worked across AI, NLP, healthcare ML, automation, cloud engineering, and enterprise platform workflows.
-- Research exposure through IIT Hyderabad, IIT Kharagpur, IBM, and academic ML projects.
-
----
-
-## Highlights
-
-- Ranked 2nd globally in IBM zDatathon for Social Good 2022.
-- Top 10 Big Learner at IBM Z Day Conference 2022.
-- Global Rank 221 out of 2500 in AWS DeepRacer Student League.
-- Full scholarship recipient for Robotic Vision Summer School; ranked 5th globally in TurtleBot challenge.
-- Presented research on DNA-binding protein classification at WCAIAA 2022.
-
----
-
-## What I am open to
-
-- AI engineering and applied ML systems.
-- Cloud security, IAM analysis, and attack-path research.
-- LLM evaluation, agentic tooling, and developer productivity platforms.
-- Open-source collaboration around automation, security, and ML infrastructure.
-
----
-
-## Profile Links
-
-- GitHub: [Venkatakrishnan-Ramesh](https://github.com/Venkatakrishnan-Ramesh)
-- LinkedIn: [venkatakrishnan-ramesh-997409214](https://www.linkedin.com/in/venkatakrishnan-ramesh-997409214)
-- Portfolio: [venkatakrishnanramesh.netlify.app](https://venkatakrishnanramesh.netlify.app)
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=110&section=footer" alt="Footer" />
+</p>
