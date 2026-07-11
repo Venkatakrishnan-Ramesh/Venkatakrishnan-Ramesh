@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="520" viewBox="0 0 520 520" role="img" aria-labelledby="title desc">
+  <title id="title">Binary avatar of Venkatakrishnan Ramesh</title>
+  <desc id="desc">A stylized avatar made from glowing zeros and ones.</desc>
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="bgDigits" width="54" height="28" patternUnits="userSpaceOnUse">
+      <text x="0" y="11" font-family="monospace" font-size="10" fill="#0f5c8f">01001101</text>
+      <text x="7" y="25" font-family="monospace" font-size="10" fill="#0a3555">10110100</text>
+    </pattern>
+    <pattern id="blueDigits" width="54" height="25" patternUnits="userSpaceOnUse">
+      <rect width="54" height="25" fill="#071a2a"/>
+      <text x="0" y="10" font-family="monospace" font-size="10" font-weight="700" fill="#31c4ff">01011010</text>
+      <text x="4" y="23" font-family="monospace" font-size="10" font-weight="700" fill="#0798dd">10100101</text>
+    </pattern>
+    <pattern id="skinDigits" width="54" height="25" patternUnits="userSpaceOnUse">
+      <rect width="54" height="25" fill="#4b2618"/>
+      <text x="0" y="10" font-family="monospace" font-size="10" font-weight="700" fill="#ffd18d">10110010</text>
+      <text x="5" y="23" font-family="monospace" font-size="10" font-weight="700" fill="#e79a52">01001101</text>
+    </pattern>
+    <pattern id="whiteDigits" width="54" height="25" patternUnits="userSpaceOnUse">
+      <rect width="54" height="25" fill="#123047"/>
+      <text x="0" y="10" font-family="monospace" font-size="10" font-weight="700" fill="#e9f8ff">01010110</text>
+      <text x="5" y="23" font-family="monospace" font-size="10" font-weight="700" fill="#8fdcff">10101001</text>
+    </pattern>
+    <pattern id="darkDigits" width="54" height="25" patternUnits="userSpaceOnUse">
+      <rect width="54" height="25" fill="#020a12"/>
+      <text x="0" y="10" font-family="monospace" font-size="10" font-weight="700" fill="#0d6da8">11001010</text>
+      <text x="5" y="23" font-family="monospace" font-size="10" font-weight="700" fill="#063d62">00110101</text>
+    </pattern>
+    <radialGradient id="halo" cx="50%" cy="46%" r="58%">
+      <stop offset="0" stop-color="#0a79b8" stop-opacity=".28"/>
+      <stop offset=".62" stop-color="#03263f" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#01060b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="520" height="520" rx="34" fill="#02070d"/>
+  <rect width="520" height="520" rx="34" fill="url(#halo)"/>
+  <rect x="12" y="12" width="496" height="496" rx="26" fill="url(#bgDigits)" opacity=".38"/>
+
+  <g filter="url(#glow)">
+    <path d="M167 126c5-58 42-95 91-101 44-6 88 19 102 62 8 25 1 57-6 73-17-28-47-45-82-47-40-3-72 9-105 31z" fill="url(#darkDigits)" stroke="#17aef2" stroke-width="2"/>
+    <path d="M188 79l-17-40 41 21 12-46 27 42 29-44 3 47 48-27-20 48 44-8-36 34" fill="url(#darkDigits)" stroke="#17aef2" stroke-width="2" stroke-linejoin="round"/>
+    <ellipse cx="160" cy="190" rx="18" ry="34" fill="url(#skinDigits)" stroke="#ffbd73" stroke-width="2"/>
+    <ellipse cx="360" cy="190" rx="18" ry="34" fill="url(#skinDigits)" stroke="#ffbd73" stroke-width="2"/>
+    <path d="M177 137c8-28 36-45 83-45 51 0 78 20 85 51v70c-4 58-37 96-84 96-48 0-80-39-84-96z" fill="url(#skinDigits)" stroke="#ffbd73" stroke-width="2"/>
+    <g fill="none" stroke="#2ec8ff" stroke-width="8">
+      <rect x="187" y="160" width="64" height="45" rx="13"/>
+      <rect x="269" y="160" width="64" height="45" rx="13"/>
+      <path d="M251 177h18M184 171l-20-8M336 171l20-8"/>
+    </g>
+    <g fill="#dff8ff">
+      <ellipse cx="220" cy="182" rx="8" ry="6"/>
+      <ellipse cx="301" cy="182" rx="8" ry="6"/>
+    </g>
+    <g fill="#041725">
+      <circle cx="220" cy="183" r="3"/>
+      <circle cx="301" cy="183" r="3"/>
+    </g>
+    <path d="M257 181c-5 15-7 29-2 36 4 4 10 5 15 1" fill="none" stroke="#d98545" stroke-width="3"/>
+    <path d="M224 228c10-8 22-10 36-4 13-6 27-4 38 4-7 12-25 12-38 4-13 8-29 8-36-4z" fill="url(#darkDigits)" stroke="#102b3e" stroke-width="1"/>
+    <path d="M246 254c8 6 20 6 29 0l-4 25c-7 8-17 8-24 0z" fill="url(#darkDigits)"/>
+    <path d="M230 246c17 11 43 11 60 0" fill="none" stroke="#ffb673" stroke-width="3" stroke-linecap="round"/>
+    <path d="M183 292c20-19 42-29 77-29s57 10 77 29c26 24 38 71 36 140H147c-2-69 10-116 36-140z" fill="url(#whiteDigits)" stroke="#88ddff" stroke-width="2"/>
+    <path d="M211 284c8 28 22 42 49 42 28 0 43-14 50-42" fill="none" stroke="#c7f1ff" stroke-width="5"/>
+    <path d="M230 287l-9 71M290 287l9 71" fill="none" stroke="#dff8ff" stroke-width="3"/>
+    <circle cx="220" cy="360" r="4" fill="#dff8ff"/>
+    <circle cx="300" cy="360" r="4" fill="#dff8ff"/>
+    <path d="M183 300c-29 13-46 45-50 87-3 32 2 55 22 63 18 7 31-4 36-22l22-92z" fill="url(#whiteDigits)" stroke="#88ddff" stroke-width="2"/>
+    <path d="M337 300c29 13 46 45 50 87 3 32-2 55-22 63-18 7-31-4-36-22l-22-92z" fill="url(#whiteDigits)" stroke="#88ddff" stroke-width="2"/>
+    <path d="M148 366l48 13M143 390l48 12M372 366l-48 13M377 390l-48 12" stroke="#071622" stroke-width="10"/>
+    <path d="M205 369h110l-15 52h-80z" fill="none" stroke="#dff8ff" stroke-width="3"/>
+    <path d="M178 432h164l-6 64h-69l-7-45-7 45h-69z" fill="url(#darkDigits)" stroke="#17aef2" stroke-width="2"/>
+  </g>
+  <text x="260" y="502" text-anchor="middle" font-family="monospace" font-size="12" fill="#4ccaff" opacity=".8">01010110 01001011</text>
+</svg>
